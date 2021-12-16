@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xeb0aef9796018779bc73a01ff153eaeecce85054",
+  "SCAN_LINK": "https://polygonscan.com/token/0xeb0aef9796018779bc73a01ff153eaeecce85054",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Gorilla Crypto Labs",
+  "SYMBOL": "Gorillabs",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gorilla-crypto-labs",
+  "SHOW_BACKGROUND": true
+}
